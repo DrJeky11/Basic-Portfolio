@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title>Portfolio</title>
+    <link rel="stylesheet" type="text/css" href="./css/style.css" />
+    </head>
+    <body>
+        <h1>Fernanda Garcia </h1>
+
+        <h2>Full-Stack Web Developer </h2>
+        
+        <h2><img src="https://i.amz.mshcdn.com/3_xaVRm1jbLV4e5Wwmvw2FSk9w4=/950x534/filters:quality(90)/https%3A%2F%2Fblueprint-api-production.s3.amazonaws.com%2Fuploads%2Fcard%2Fimage%2F470005%2F5e15ea24-a446-42b2-bbc5-8380a9770c6e.jpg" alt= "Porfolio Image" style="width:450px;height:350px;"></h2>
+              
+        <p>Now this is the story all about how my life got flipped turned 
+           I'd like to take a minute just sit right there
+           I'll tell you the story of I became the prince of a town called Bell-Air
+           In West philadelphia born and raised
+           On the playground is where I spent most of my days.</p>
+
+        <ul>
+            <li> <a class="contact" href="https://www.linkedin.com/in/fernanda-garcia-682098137/"target="_blank"><img src="./style/linkedin.png"></li>
+            <li> <a class="contact" href="https://github.com/fernandagq"target="_blank"><img src="./style/github.png"></li>
+            <li> <a class="contact" href="mailto:fgarcia@email.wm.edu"target="_blank"><img src="./style/email.png"><img</li>    
+            
+            </ul>
+        </body>
+           
+</html>
